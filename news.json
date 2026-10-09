@@ -1,0 +1,115 @@
+{
+  "title": "Anthropology in the news",
+  "updated": "2026-10-09",
+  "items": [
+    {
+      "id": "2026-09-30-rai-myers-lecture",
+      "date": "2026-09-30",
+      "date_precision": "day",
+      "stream": "profession",
+      "title": "Amazonian animism meets the \"Rights of Nature\" at the RAI Myers Lecture",
+      "summary": "Aparecida Vilaça of the Museu Nacional, Rio de Janeiro, gave this year's Myers Lecture at King's College London following the RAI AGM, where the 2026 RAI medals and awards were also announced.",
+      "outlet": "Royal Anthropological Institute",
+      "url": "https://therai.org.uk/events/rai-agm-2026/",
+      "status": "published",
+      "added": "2026-10-09"
+    },
+    {
+      "id": "2026-09-28-ucl-senior-promotions",
+      "date": "2026-09-28",
+      "date_precision": "day",
+      "stream": "profession",
+      "title": "Six senior promotions at UCL Anthropology",
+      "summary": "Promotions recognise colleagues working across social, biological, environmental and evolutionary anthropology, from fiscal relations and the state to conservation and the evolution of human birth.",
+      "outlet": "UCL Anthropology",
+      "url": "https://www.ucl.ac.uk/social-historical-sciences/news/six-senior-promotions-ucl-anthropology",
+      "status": "published",
+      "added": "2026-10-09"
+    },
+    {
+      "id": "2026-09-25-london-anthropology-day",
+      "date": "2026-09-25",
+      "date_precision": "day",
+      "stream": "profession",
+      "title": "London Anthropology Day welcomes the next generation",
+      "summary": "The annual taster day gives school students considering university a first experience of anthropology lectures, workshops and conversations with current students.",
+      "outlet": "Discover Anthropology",
+      "url": "https://discoveranthropology.org.uk/",
+      "status": "published",
+      "added": "2026-10-09"
+    },
+    {
+      "id": "2026-06-05-futureproofing-manifesto",
+      "date": "2026-06-05",
+      "date_precision": "day",
+      "stream": "public",
+      "title": "A ten-point manifesto for anthropology's future",
+      "summary": "Anthropologists from industry, policy and academia met at UCL East to debate AI, the public good and how universities prepare anthropologists for work beyond academia. Contributors included Gillian Tett.",
+      "outlet": "UCL Anthropology",
+      "url": "https://www.ucl.ac.uk/social-historical-sciences/anthropology/research/futureproofing-anthropology",
+      "status": "published",
+      "added": "2026-10-09"
+    },
+    {
+      "id": "2026-05-27-bbc-birth-rate",
+      "date": "2026-05-27",
+      "date_precision": "day",
+      "stream": "public",
+      "title": "Why births have fallen to a fifty-year low",
+      "summary": "Oxford anthropologist Dr Paula Shepard commented for the BBC on what lies behind the UK's falling birth rate and how people weigh the decision to have children.",
+      "outlet": "BBC",
+      "url": "https://www.anthro.ox.ac.uk/latest-news-0?page=1",
+      "note": "Link points to Oxford SAME media highlights; replace with the BBC article URL.",
+      "status": "published",
+      "added": "2026-10-09"
+    },
+    {
+      "id": "2026-05-19-human-handedness",
+      "date": "2026-05-19",
+      "date_precision": "day",
+      "stream": "public",
+      "title": "Solving the puzzle of human right-handedness",
+      "summary": "Research by Thomas Püschel and Rachel Hurwitz (Oxford) with Chris Venditti (Reading) offers an evolutionary account of why most people favour their right hand, covered by The Independent and widely internationally.",
+      "outlet": "The Independent",
+      "url": "https://www.st-hughs.ox.ac.uk/a-paper-published-by-st-hughs-tutorial-fellow-in-human-sciences-explains-human-handedness/",
+      "status": "published",
+      "added": "2026-10-09"
+    },
+    {
+      "id": "2026-qs-ranking-oxford",
+      "date": "2026-01-01",
+      "date_precision": "year",
+      "stream": "profession",
+      "title": "Oxford tops the 2026 QS ranking for anthropology",
+      "summary": "The School of Anthropology and Museum Ethnography is ranked first in the world for the subject in this year's QS World University Rankings.",
+      "outlet": "University of Oxford",
+      "url": "https://www.anthro.ox.ac.uk/latest-news-0?page=1",
+      "status": "published",
+      "added": "2026-10-09"
+    },
+    {
+      "id": "2026-fieldnotes-podcast-sussex",
+      "date": "2026-01-01",
+      "date_precision": "year",
+      "stream": "profession",
+      "title": "New podcast: Fieldnotes from Sussex Anthropology",
+      "summary": "Hosted by Dr Syeda Sana Batool, the series ranges across trade, fieldwork, memory, therapy and AI in accessible conversations with Sussex anthropologists.",
+      "outlet": "Discover Anthropology",
+      "url": "https://discoveranthropology.org.uk/resources/fieldnotes-the-anthropology-podcast/",
+      "status": "published",
+      "added": "2026-10-09"
+    },
+    {
+      "id": "2026-01-22-alpa-shah-jaipal-singh-munda",
+      "date": "2026-01-22",
+      "date_precision": "day",
+      "stream": "public",
+      "title": "Alpa Shah on the legacy of Jaipal Singh Munda",
+      "summary": "Oxford's Professor of Social Anthropology writes in Outlook India on the Adivasi leader, Olympian and Constituent Assembly member, and what his politics mean today.",
+      "outlet": "Outlook India",
+      "url": "https://www.asc.ox.ac.uk/research/inimitable-legacy-jaipal-singh-munda-alpa-shah",
+      "status": "published",
+      "added": "2026-10-09"
+    }
+  ]
+}
